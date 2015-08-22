@@ -1,0 +1,17 @@
+body{
+	background-color: blue;
+}
+
+#game{
+	outline: 2px solid black;
+}
+
+.cssCrate{
+	background-image:url("sprites/crate.png"); 
+	background-size: 100% 100%;	
+}
+
+.cssDog{
+	background-image:url("sprites/dog.png"); 
+	background-size: 100% 100%;	
+}
